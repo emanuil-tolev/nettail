@@ -1,4 +1,12 @@
+*.pyc
+
 # Vim
 *.swp
 
+# PyCharm
+.idea
+
 logs
+
+# authentication settings
+config.py
